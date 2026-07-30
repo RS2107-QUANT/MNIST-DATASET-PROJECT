@@ -31,7 +31,7 @@ The ANN uses:
 * **Adam Optimizer** to update model weights
 * **25 training epochs**
 
-The training loss decreased consistently from **0.3400** in Epoch 1 to **0.2776** in Epoch 25, indicating that the model was learning during training.
+The training loss decreased consistently from **2.3** in Epoch 1 to **0.8598** in Epoch 25, indicating that the model was learning during training.
 
 ## Model Performance
 
