@@ -37,8 +37,8 @@ The training loss decreased consistently from **2.3** in Epoch 1 to **0.8598** i
 
 | Model               |                           Accuracy |  Precision |     Recall |   F1-Score |
 | ------------------- | ---------------------------------: | ---------: | ---------: | ---------: |
-| Logistic Regression |                             92.57% |     92.55% |     92.57% |     92.56% |
-| Random Forest       |                         **96.96%** | **96.96%** | **96.96%** | **96.96%** |
+| Logistic Regression |                             92% |     92% |     92% |     92% |
+| Random Forest       |                         **97%** | **97%** | **97%** | **97%** |
 | Feedforward ANN     | Evaluated using Cross-Entropy Loss |          — |          — |          — |
 
 ## Evaluation Metrics
